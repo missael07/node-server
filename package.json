@@ -1,9 +1,9 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "echo 'Build script placeholder'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/missael07/node-server/issues"
   },
-  "homepage": "https://github.com/missael07/node-server#readme"
+  "homepage": "https://github.com/missael07/node-server#readme",
+  "description": ""
 }
